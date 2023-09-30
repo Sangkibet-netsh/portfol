@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'SangElkana'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_51465B1947AC4FBCAA6D7F786166EDC4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0F8D3C1C5D7642FD88F189C7B8BAACE8 }}
